@@ -1,0 +1,431 @@
+Symbol,Sector,Industry,Full Time Employees,Total ESG Risk score,Environment Risk Score,Governance Risk Score,Social Risk Score,Controversy Level,Controversy Score,ESG Risk Percentile,ESG Risk Level
+WAT,Healthcare,Diagnostics & Research,"7,900",14.6,1.4,5.1,8.2,None Controversy Level,N/A,10th percentile,Low
+TJX,Consumer Cyclical,Apparel Retail,"349,000",14.4,1.9,4.8,7.7,Moderate Controversy Level,2,10th percentile,Low
+TGT,Consumer Defensive,Discount Stores,"415,000",14.4,1.9,4.9,7.6,Significant Controversy Level,3,10th percentile,Low
+SNPS,Technology,Software - Infrastructure,"20,300",14.4,3.3,4.2,6.9,None Controversy Level,N/A,10th percentile,Low
+RL,Consumer Cyclical,Apparel Manufacturing,"14,800",14.6,1.2,5.6,7.8,Moderate Controversy Level,2,10th percentile,Low
+JCI,Industrials,Building Products & Equipment,"100,000",14.4,4.5,5.4,4.6,Significant Controversy Level,3,10th percentile,Low
+IRM,Real Estate,REIT - Specialty,"27,000",14.5,5,5.8,3.7,Moderate Controversy Level,2,10th percentile,Low
+CTSH,Technology,Information Technology Services,"344,400",14.7,1.1,5.9,7.6,Moderate Controversy Level,2,10th percentile,Low
+TEL,Technology,Electronic Components,"85,000",14.8,5.8,4.6,4.4,None Controversy Level,N/A,11th percentile,Low
+TPR,Consumer Cyclical,Luxury Goods,"12,600",14.8,1.1,5.2,8.6,Moderate Controversy Level,2,11th percentile,Low
+CRM,Technology,Software - Application,"72,682",14.9,2,5.4,7.5,Low Controversy Level,1,11th percentile,Low
+PARA,Communication Services,Entertainment,"21,900",15,0.1,7.4,7.5,Significant Controversy Level,3,11th percentile,Low
+MSFT,Technology,Software - Infrastructure,"221,000",15.1,1.5,6.1,7.5,Significant Controversy Level,3,11th percentile,Low
+JNPR,Technology,Communication Equipment,"11,144",14.8,1.8,5.8,7.2,Low Controversy Level,1,11th percentile,Low
+JBHT,Industrials,Integrated Freight & Logistics,"34,718",14.8,3.3,5,6.6,Low Controversy Level,1,11th percentile,Low
+CAH,Healthcare,Medical Distribution,"47,040",14.9,1.2,6.4,7.3,Significant Controversy Level,3,11th percentile,Low
+UNH,Healthcare,Healthcare Plans,"440,000",15.3,0,5.6,9.7,Significant Controversy Level,3,12th percentile,Low
+TT,Industrials,Building Products & Equipment,"40,000",15.2,4.4,5.1,5.7,Moderate Controversy Level,2,12th percentile,Low
+QCOM,Technology,Semiconductors,"50,000",15.4,5.3,5.6,4.5,Significant Controversy Level,3,12th percentile,Low
+NTAP,Technology,Computer Hardware,,15.4,2.2,5.5,7.7,Low Controversy Level,1,12th percentile,Low
+MCK,Healthcare,Medical Distribution,"45,000",15.2,1.6,6.3,7.3,Significant Controversy Level,3,12th percentile,Low
+EXR,Real Estate,REIT - Industrial,"7,618",15.2,4.2,7.3,3.7,Low Controversy Level,1,12th percentile,Low
+ULTA,Consumer Cyclical,Specialty Retail,"20,000",15.6,4.1,4.3,7.3,Moderate Controversy Level,2,13th percentile,Low
+DIS,Communication Services,Entertainment,"173,250",15.7,0,6.7,9,Moderate Controversy Level,2,13th percentile,Low
+O,Real Estate,REIT - Retail,418,15.5,4.4,5.7,5.3,Moderate Controversy Level,2,13th percentile,Low
+GWW,Industrials,Industrial Distribution,"23,200",16,4.5,5.9,5.6,Moderate Controversy Level,2,14th percentile,Low
+TSCO,Consumer Cyclical,Specialty Retail,"50,000",16.1,3.4,4.5,8.2,Moderate Controversy Level,2,14th percentile,Low
+SYY,Consumer Defensive,Food Distribution,"72,000",15.9,5.4,4.5,6.1,Moderate Controversy Level,2,14th percentile,Low
+MCO,Financial Services,Financial Data & Stock Exchanges,"15,439",15.8,1.6,8.1,6.1,Moderate Controversy Level,2,14th percentile,Low
+CPRT,Industrials,Specialty Business Services,"12,000",16,1.5,5.6,9,Low Controversy Level,1,14th percentile,Low
+CPT,Real Estate,REIT - Residential,"1,640",16.1,4,8.2,3.9,Low Controversy Level,1,14th percentile,Low
+BBY,Consumer Cyclical,Specialty Retail,"85,000",15.9,2.4,4.4,9.1,Moderate Controversy Level,2,14th percentile,Low
+AVY,Consumer Cyclical,Packaging & Containers,"35,000",16.1,11.4,3.7,0.9,Low Controversy Level,1,14th percentile,Low
+ANSS,Technology,Software - Application,"6,200",15.9,3.5,5.1,7.3,None Controversy Level,N/A,14th percentile,Low
+WBA,Healthcare,Pharmaceutical Retailers,"330,000",16.3,1.8,5.2,9.3,Significant Controversy Level,3,15th percentile,Low
+OMC,Communication Services,Advertising Agencies,"75,900",16.3,0.1,6.9,9.3,Low Controversy Level,1,15th percentile,Low
+NFLX,Communication Services,Entertainment,"13,000",16.4,0.1,9,7.3,Moderate Controversy Level,2,15th percentile,Low
+MSCI,Financial Services,Financial Data & Stock Exchanges,"5,858",16.3,1.6,7.7,7,Low Controversy Level,1,15th percentile,Low
+MET,Financial Services,Insurance - Life,"45,000",16.4,0.7,8.8,7,Moderate Controversy Level,2,15th percentile,Low
+L,Financial Services,Insurance - Property & Casualty,"12,280",16.4,0.6,11.5,4.3,Moderate Controversy Level,2,15th percentile,Low
+INTU,Technology,Software - Application,"18,200",16.4,1,4.7,10.7,Moderate Controversy Level,2,15th percentile,Low
+WY,Real Estate,REIT - Specialty,"9,300",16.7,9.1,3.5,4.2,Moderate Controversy Level,2,16th percentile,Low
+WM,Industrials,Waste Management,"48,000",16.6,8.1,3.3,5.2,Moderate Controversy Level,2,16th percentile,Low
+V,Financial Services,Credit Services,,16.7,1.8,6.7,8.2,Significant Controversy Level,3,16th percentile,Low
+HIG,Financial Services,Insurance - Property & Casualty,"18,700",16.6,1.8,7.6,7.2,Low Controversy Level,1,16th percentile,Low
+NOW,Technology,Software - Application,"22,668",16.6,4,6.6,6,None Controversy Level,N/A,16th percentile,Low
+RVTY,Healthcare,Diagnostics & Research,"11,000",16.7,0.8,5.8,10.1,Moderate Controversy Level,2,16th percentile,Low
+PAYX,Industrials,Staffing & Employment Services,"16,000",16.7,3.2,6.4,7.2,Low Controversy Level,1,16th percentile,Low
+EXPD,Industrials,Integrated Freight & Logistics,"18,403",16.6,4.2,4.8,7.6,Moderate Controversy Level,2,16th percentile,Low
+GLW,Technology,Electronic Components,"49,800",16.5,5.5,6.1,4.8,Moderate Controversy Level,2,16th percentile,Low
+BR,Technology,Information Technology Services,"14,000",16.6,4.2,4.9,7.5,Moderate Controversy Level,2,16th percentile,Low
+ADSK,Technology,Software - Application,,16.8,3.7,4.9,8.2,None Controversy Level,N/A,16th percentile,Low
+ANET,Technology,Computer Hardware,"4,023",16.7,0.4,7.4,8.9,Low Controversy Level,1,16th percentile,Low
+URI,Industrials,Rental & Leasing Services,"26,650",16.9,5.3,5.4,6.1,Low Controversy Level,1,17th percentile,Low
+TER,Technology,Semiconductor Equipment & Materials,"6,600",17,7.1,5,4.9,None Controversy Level,N/A,17th percentile,Low
+TROW,Financial Services,Asset Management,"7,878",16.9,2.4,5.6,8.9,Low Controversy Level,1,17th percentile,Low
+RF,Financial Services,Banks - Regional,"20,101",16.9,1.8,8.4,6.7,Moderate Controversy Level,2,17th percentile,Low
+MA,Financial Services,Credit Services,"33,400",17.1,2.2,8.3,6.7,High Controversy Level,4,17th percentile,Low
+LULU,Consumer Cyclical,Apparel Retail,"38,000",16.9,1.6,5.5,9.9,Moderate Controversy Level,2,17th percentile,Low
+GEN,Technology,Software - Infrastructure,"3,400",16.9,3.3,5.4,8.2,Moderate Controversy Level,2,17th percentile,Low
+FITB,Financial Services,Banks - Regional,"18,657",16.8,1.2,7.5,8.1,Moderate Controversy Level,2,17th percentile,Low
+AKAM,Technology,Software - Infrastructure,"10,250",17,3,6.9,7.1,Low Controversy Level,1,17th percentile,Low
+SYF,Financial Services,Credit Services,"20,000",17.3,0.1,7.3,9.9,Moderate Controversy Level,2,18th percentile,Low
+KLAC,Technology,Semiconductor Equipment & Materials,"15,000",17.2,7.4,4.6,5.1,None Controversy Level,N/A,18th percentile,Low
+FFIV,Technology,Software - Infrastructure,"6,077",17.1,4.1,5.4,7.6,Low Controversy Level,1,18th percentile,Low
+BIO,Healthcare,Medical Devices,"8,000",17.4,1.2,7,9.2,Low Controversy Level,1,18th percentile,Low
+AAPL,Technology,Consumer Electronics,"150,000",17.2,0.5,9.4,7.4,Significant Controversy Level,3,18th percentile,Low
+VRSK,Industrials,Consulting Services,"7,500",17.5,0.1,5,12.5,Low Controversy Level,1,19th percentile,Low
+COO,Healthcare,Medical Instruments & Supplies,"15,000",17.5,2.7,6,8.8,Moderate Controversy Level,2,19th percentile,Low
+ROK,Industrials,Specialty Industrial Machinery,"29,000",17.7,5.4,5.7,6.6,Moderate Controversy Level,2,19th percentile,Low
+LDOS,Technology,Information Technology Services,"47,000",17.6,3.4,5.3,9,Moderate Controversy Level,2,19th percentile,Low
+HLT,Consumer Cyclical,Lodging,"178,000",17.6,6.1,4.4,7,Moderate Controversy Level,2,19th percentile,Low
+FIS,Technology,Information Technology Services,"60,000",17.5,4.1,5.2,8.2,Low Controversy Level,1,19th percentile,Low
+EBAY,Consumer Cyclical,Internet Retail,"12,300",17.6,2.7,7.2,7.7,Moderate Controversy Level,2,19th percentile,Low
+DG,Consumer Defensive,Discount Stores,"185,800",17.6,3.5,5.5,8.6,Moderate Controversy Level,2,19th percentile,Low
+KEYS,Technology,Scientific & Technical Instruments,"15,400",7.6,1.2,4.7,1.8,Low Controversy Level,1,1st percentile,Negligible
+HAS,Consumer Cyclical,Leisure,"5,502",7.1,0,4.2,2.9,Moderate Controversy Level,2,1st percentile,Negligible
+PYPL,Financial Services,Credit Services,"27,200",17.8,2.8,5.8,9.2,Moderate Controversy Level,2,20th percentile,Low
+EG,Financial Services,Insurance - Reinsurance,"2,844",18,1.4,9.9,6.7,Low Controversy Level,1,20th percentile,Low
+ETN,Industrials,Specialty Industrial Machinery,"94,000",17.9,5.5,5.7,6.8,Low Controversy Level,1,20th percentile,Low
+CME,Financial Services,Financial Data & Stock Exchanges,"3,565",17.8,2.1,9.2,6.5,Low Controversy Level,1,20th percentile,Low
+XYL,Industrials,Specialty Industrial Machinery,"23,000",18.1,4.3,5.2,8.7,Low Controversy Level,1,21st percentile,Low
+ROST,Consumer Cyclical,Apparel Retail,"108,000",18.2,1.8,5.7,10.8,Moderate Controversy Level,2,21st percentile,Low
+REGN,Healthcare,Biotechnology,"13,677",18,0.3,6.7,11,Moderate Controversy Level,2,21st percentile,Low
+MU,Technology,Semiconductors,"43,000",18.2,7.2,5.5,5.5,Moderate Controversy Level,2,21st percentile,Low
+CTAS,Industrials,Specialty Business Services,"44,500",18.1,3,5.9,9.2,Moderate Controversy Level,2,21st percentile,Low
+BLK,Financial Services,Asset Management,"19,300",18.3,0.9,10,7.4,Moderate Controversy Level,2,21st percentile,Low
+BEN,Financial Services,Asset Management,"10,100",18.3,1.1,7.3,9.9,Moderate Controversy Level,2,22nd percentile,Low
+FDS,Financial Services,Financial Data & Stock Exchanges,"12,279",18.4,4.3,5.3,8.8,Low Controversy Level,1,22nd percentile,Low
+AFL,Financial Services,Insurance - Life,"12,785",18.3,0.3,8.9,9.1,Low Controversy Level,1,22nd percentile,Low
+ZTS,Healthcare,Drug Manufacturers - Specialty & Generic,"14,100",18.8,3.2,8.7,6.8,Moderate Controversy Level,2,23rd percentile,Low
+WTW,Financial Services,Insurance Brokers,"48,000",18.7,0.1,10.8,7.8,Moderate Controversy Level,2,23rd percentile,Low
+VZ,Communication Services,Telecom Services,"104,400",18.7,3.7,5.4,9.6,Significant Controversy Level,3,23rd percentile,Low
+UPS,Industrials,Integrated Freight & Logistics,"500,000",18.6,4.2,5.5,8.9,Moderate Controversy Level,2,23rd percentile,Low
+PKG,Consumer Cyclical,Packaging & Containers,"14,900",18.6,14,3.6,1.1,Low Controversy Level,1,23rd percentile,Low
+LVS,Consumer Cyclical,Resorts & Casinos,"38,400",18.7,2.3,8.7,7.7,Moderate Controversy Level,2,23rd percentile,Low
+ILMN,Healthcare,Diagnostics & Research,"10,590",18.6,0.1,6.9,11.6,Significant Controversy Level,3,23rd percentile,Low
+IDXX,Healthcare,Diagnostics & Research,"11,000",18.7,2.6,8.9,7.1,Low Controversy Level,1,23rd percentile,Low
+JKHY,Technology,Information Technology Services,"7,120",18.7,4.3,5.7,8.7,None Controversy Level,N/A,23rd percentile,Low
+ES,Utilities,Utilities - Regulated Electric,"10,000",18.6,4.7,5.4,8.6,Moderate Controversy Level,2,23rd percentile,Low
+EW,Healthcare,Medical Devices,"19,800",18.6,2.9,7.6,8.1,Low Controversy Level,1,23rd percentile,Low
+AXP,Financial Services,Credit Services,"74,600",18.6,0.1,9.7,8.9,Moderate Controversy Level,2,23rd percentile,Low
+PTC,Technology,Software - Application,"7,438",18.9,4.9,5.4,8.6,None Controversy Level,N/A,24th percentile,Low
+KMI,Energy,Oil & Gas Midstream,"10,891",19,8.3,3.5,7.2,Moderate Controversy Level,2,24th percentile,Low
+INTC,Technology,Semiconductors,"130,700",18.9,4.9,6.6,7.3,Significant Controversy Level,3,24th percentile,Low
+IT,Technology,Information Technology Services,"20,290",18.9,0.1,5.6,13.2,Low Controversy Level,1,24th percentile,Low
+FTNT,Technology,Software - Infrastructure,"13,522",18.9,2.5,6.4,10,Low Controversy Level,1,24th percentile,Low
+IQV,Healthcare,Diagnostics & Research,"87,000",19.1,1.3,7.2,10.6,Moderate Controversy Level,2,25th percentile,Low
+CMI,Industrials,Specialty Industrial Machinery,"75,500",19.3,5.6,5.9,7.7,Moderate Controversy Level,2,25th percentile,Low
+BKNG,Consumer Cyclical,Travel Services,"24,000",19.2,1,8.1,10.1,Significant Controversy Level,3,25th percentile,Low
+ROL,Consumer Cyclical,Personal Services,"19,000",19.3,1.8,6.9,10.6,Low Controversy Level,1,26th percentile,Low
+CHRW,Industrials,Integrated Freight & Logistics,"14,990",19.3,4.7,5.3,9.3,Low Controversy Level,1,26th percentile,Low
+APH,Technology,Electronic Components,"95,000",19.6,7.3,7.6,4.6,Moderate Controversy Level,2,26th percentile,Low
+NXPI,Technology,Semiconductors,"34,200",19.8,8.6,5.8,5.4,Low Controversy Level,1,27th percentile,Low
+NKE,Consumer Cyclical,Footwear & Accessories,"83,700",19.6,3,6.7,10,Significant Controversy Level,3,27th percentile,Low
+LH,Healthcare,Diagnostics & Research,"67,000",19.7,0.4,6.6,12.7,Moderate Controversy Level,2,27th percentile,Low
+ICE,Financial Services,Financial Data & Stock Exchanges,"13,226",19.8,1.7,8.8,9.3,Low Controversy Level,1,27th percentile,Low
+HUBB,Industrials,Electrical Equipment & Parts,"18,400",19.6,5.6,4.9,9.1,None Controversy Level,N/A,27th percentile,Low
+FI,Technology,Information Technology Services,"42,000",19.6,4.1,6.8,8.7,Moderate Controversy Level,2,27th percentile,Low
+FDX,Industrials,Integrated Freight & Logistics,"328,000",19.7,5.7,5.6,8.4,Moderate Controversy Level,2,27th percentile,Low
+ECL,Basic Materials,Specialty Chemicals,"48,000",19.9,8.5,5.3,6.1,Moderate Controversy Level,2,27th percentile,Low
+CHD,Consumer Defensive,Household & Personal Products,"5,550",19.9,6.9,6.7,6.3,Low Controversy Level,1,27th percentile,Low
+YUM,Consumer Cyclical,Restaurants,"35,000",20.1,4.5,4.1,11.4,Moderate Controversy Level,2,28th percentile,Medium
+PRU,Financial Services,Insurance - Life,"40,366",19.9,0.6,9.3,10,Low Controversy Level,1,28th percentile,Low
+PGR,Financial Services,Insurance - Property & Casualty,"61,432",20,1.5,10.1,8.5,Moderate Controversy Level,2,28th percentile,Medium
+DLTR,Consumer Defensive,Discount Stores,"65,894",20.1,3.3,4,12.8,Moderate Controversy Level,2,28th percentile,Medium
+DE,Industrials,Farm & Heavy Construction Machinery,"83,000",20,2.7,6.5,10.8,Moderate Controversy Level,2,28th percentile,Low
+CNC,Healthcare,Healthcare Plans,"59,900",19.9,0.1,6.5,13.3,Moderate Controversy Level,2,28th percentile,Low
+AVGO,Technology,Semiconductors,"20,000",20,7.3,6.6,6,Significant Controversy Level,3,28th percentile,Low
+TRV,Financial Services,Insurance - Property & Casualty,"32,967",20.3,1,10,9.3,Low Controversy Level,1,29th percentile,Medium
+SLB,Energy,Oil & Gas Equipment & Services,"111,000",20.3,8.1,5.9,6.3,Low Controversy Level,1,29th percentile,Medium
+NVR,Consumer Cyclical,Residential Construction,"6,300",20.3,7.2,5.2,7.8,Low Controversy Level,1,29th percentile,Medium
+GL,Financial Services,Insurance - Life,"3,636",20.4,1.6,10.5,8.3,Moderate Controversy Level,2,29th percentile,Medium
+AMP,Financial Services,Asset Management,"13,800",20.3,2.1,10.3,7.8,Moderate Controversy Level,2,29th percentile,Medium
+STX,Technology,Computer Hardware,"33,400",10.7,1.6,5.3,3.8,Low Controversy Level,1,2nd percentile,Low
+CDW,Technology,Information Technology Services,"11,400",9.2,2.5,3.5,3.2,None Controversy Level,N/A,2nd percentile,Negligible
+CBRE,Real Estate,Real Estate Services,"130,000",8,1.5,4.6,1.9,Low Controversy Level,1,2nd percentile,Negligible
+TXN,Technology,Semiconductors,"34,000",20.6,7.8,6.9,6,Moderate Controversy Level,2,30th percentile,Medium
+ROP,Technology,Software - Application,"16,800",20.4,4.7,6.1,9.7,None Controversy Level,N/A,30th percentile,Medium
+NEM,Basic Materials,Gold,"21,700",20.5,7.1,5.2,8.2,Significant Controversy Level,3,30th percentile,Medium
+GRMN,Technology,Scientific & Technical Instruments,"19,900",20.7,4.8,4.3,11.6,Low Controversy Level,1,30th percentile,Medium
+CMG,Consumer Cyclical,Restaurants,"120,000",20.7,6.8,4.3,9.6,Moderate Controversy Level,2,30th percentile,Medium
+BRO,Financial Services,Insurance Brokers,"16,152",20.5,0.1,10.6,9.8,Low Controversy Level,1,30th percentile,Medium
+BRK-B,Financial Services,Insurance - Diversified,"396,500",20.7,1,14.8,4.9,Low Controversy Level,1,30th percentile,Medium
+RCL,Consumer Cyclical,Travel Services,"98,100",20.7,8.1,4.9,7.7,Significant Controversy Level,3,31st percentile,Medium
+RSG,Industrials,Waste Management,"41,000",20.9,11.2,3.7,6,Significant Controversy Level,3,31st percentile,Medium
+LYB,Basic Materials,Specialty Chemicals,"20,000",20.7,13.5,5.1,2.1,Moderate Controversy Level,2,31st percentile,Medium
+GPN,Industrials,Specialty Business Services,"27,000",20.9,3.7,6.5,10.7,Low Controversy Level,1,31st percentile,Medium
+BK,Financial Services,Asset Management,"52,100",20.9,1.1,9.9,9.9,Moderate Controversy Level,2,31st percentile,Medium
+MMC,Financial Services,Insurance Brokers,"85,000",21.1,0.1,9.7,11.3,Moderate Controversy Level,2,32nd percentile,Medium
+ISRG,Healthcare,Medical Instruments & Supplies,"13,676",21.1,3.7,7.8,9.6,Low Controversy Level,1,32nd percentile,Medium
+GIS,Consumer Defensive,Packaged Foods,"34,000",21.1,8.3,4.1,8.7,Moderate Controversy Level,2,32nd percentile,Medium
+DHI,Consumer Cyclical,Residential Construction,"13,450",21,8.7,5.7,6.7,Moderate Controversy Level,2,32nd percentile,Medium
+CBOE,Financial Services,Financial Data & Stock Exchanges,"1,647",21,2.7,10.6,7.6,Low Controversy Level,1,32nd percentile,Medium
+VRSN,Technology,Software - Infrastructure,907,21.3,4.7,5.8,10.8,Low Controversy Level,1,33rd percentile,Medium
+KR,Consumer Defensive,Grocery Stores,"414,000",21.3,6.6,5.6,9.1,Significant Controversy Level,3,33rd percentile,Medium
+DGX,Healthcare,Diagnostics & Research,"50,000",21.2,0.1,8,13.1,Significant Controversy Level,3,33rd percentile,Medium
+TAP,Consumer Defensive,Beverages - Brewers,"16,500",21.4,7.3,5.5,8.6,Moderate Controversy Level,2,33rd percentile,Medium
+AJG,Financial Services,Insurance Brokers,"49,821",21.2,0.1,10.1,10.9,Moderate Controversy Level,2,33rd percentile,Medium
+LNT,Utilities,Utilities - Regulated Electric,"3,281",21.4,8.5,6.3,6.6,None Controversy Level,N/A,33rd percentile,Medium
+PHM,Consumer Cyclical,Residential Construction,"6,382",21.4,9.2,4.9,7.3,Moderate Controversy Level,2,34th percentile,Medium
+MRK,Healthcare,Drug Manufacturers - General,"70,000",21.4,1.9,8.9,10.6,Significant Controversy Level,3,34th percentile,Medium
+MAR,Consumer Cyclical,Lodging,"411,000",21.4,8.6,3.7,9.2,Significant Controversy Level,3,34th percentile,Medium
+KEY,Financial Services,Banks - Regional,"16,752",21.4,1.6,10.7,9.2,Low Controversy Level,1,34th percentile,Medium
+J,Industrials,Engineering & Construction,"60,000",22.4,5.3,5.6,11.5,Significant Controversy Level,3,34th percentile,Medium
+AWK,Utilities,Utilities - Regulated Water,"6,500",21.6,9,5,7.6,Low Controversy Level,1,34th percentile,Medium
+WMB,Energy,Oil & Gas Midstream,"5,601",21.8,8.7,3,10.1,Moderate Controversy Level,2,35th percentile,Medium
+WRB,Financial Services,Insurance - Property & Casualty,"8,329",21.8,2,11.9,7.9,Low Controversy Level,1,35th percentile,Medium
+HBAN,Financial Services,Banks - Regional,"19,719",21.8,2,8.7,11.2,Moderate Controversy Level,2,35th percentile,Medium
+KO,Consumer Defensive,Beverages - Non-Alcoholic,"79,100",21.6,7.2,4.9,9.5,Significant Controversy Level,3,35th percentile,Medium
+CMS,Utilities,Utilities - Regulated Electric,"8,356",21.7,9.6,5.2,6.8,Moderate Controversy Level,2,35th percentile,Medium
+CLX,Consumer Defensive,Household & Personal Products,"8,100",21.6,7.7,5.3,8.6,Moderate Controversy Level,2,35th percentile,Medium
+ALLE,Industrials,Security & Protection Services,"12,200",21.8,10.9,5,5.8,None Controversy Level,N/A,35th percentile,Medium
+ALL,Financial Services,Insurance - Property & Casualty,"53,000",22,1,10.9,10.1,Moderate Controversy Level,2,36th percentile,Medium
+PEP,Consumer Defensive,Beverages - Non-Alcoholic,"318,000",22.1,7.3,5.2,9.6,Significant Controversy Level,3,36th percentile,Medium
+PNR,Industrials,Specialty Industrial Machinery,"10,500",22.1,6,6.1,10,Low Controversy Level,1,36th percentile,Medium
+MDLZ,Consumer Defensive,Confectioners,"91,000",22,7.2,5.4,9.4,Significant Controversy Level,3,36th percentile,Medium
+CVS,Healthcare,Healthcare Plans,"219,000",22,0,6.2,15.8,Significant Controversy Level,3,36th percentile,Medium
+CSX,Industrials,Railroads,"23,400",21.9,7,4.8,10,Moderate Controversy Level,2,36th percentile,Medium
+CSGP,Real Estate,Real Estate Services,"6,152",21.9,4.9,7.7,9.3,Low Controversy Level,1,36th percentile,Medium
+AMGN,Healthcare,Drug Manufacturers - General,"26,700",22,0.7,7.8,13.5,Significant Controversy Level,3,36th percentile,Medium
+MAS,Industrials,Building Products & Equipment,"18,000",22.2,9.7,6.8,5.6,Low Controversy Level,1,37th percentile,Medium
+F,Consumer Cyclical,Auto Manufacturers,"177,000",22.4,7.4,8.5,6.4,Significant Controversy Level,3,37th percentile,Medium
+BIIB,Healthcare,Drug Manufacturers - General,"7,570",22.2,0.4,7.4,14.5,Significant Controversy Level,3,37th percentile,Medium
+DVA,Healthcare,Medical Care Facilities,"70,000",22.6,0.1,8.4,14.1,Moderate Controversy Level,2,38th percentile,Medium
+ON,Technology,Semiconductors,"30,000",22.4,11.8,4.9,5.7,Low Controversy Level,1,38th percentile,Medium
+HUM,Healthcare,Healthcare Plans,"67,600",22.5,0,5.7,16.7,Moderate Controversy Level,2,38th percentile,Medium
+DFS,Financial Services,Credit Services,"21,100",22.5,0.1,10.5,11.9,Moderate Controversy Level,2,38th percentile,Medium
+COF,Financial Services,Credit Services,"51,300",22.5,0.1,10.1,12.3,Significant Controversy Level,3,38th percentile,Medium
+ACGL,Financial Services,Insurance - Diversified,"6,400",22.5,1.5,10.9,10.1,Moderate Controversy Level,2,38th percentile,Medium
+VRTX,Healthcare,Biotechnology,"5,400",22.7,0.8,6.6,15.4,Moderate Controversy Level,2,39th percentile,Medium
+MDT,Healthcare,Medical Devices,"95,000",22.8,1.8,7.6,13.4,Significant Controversy Level,3,39th percentile,Medium
+IVZ,Financial Services,Asset Management,"8,527",22.8,0.7,11,11,Moderate Controversy Level,2,39th percentile,Medium
+IFF,Basic Materials,Specialty Chemicals,"21,500",22.7,10.5,6.6,5.6,Significant Controversy Level,3,39th percentile,Medium
+EXC,Utilities,Utilities - Regulated Electric,"19,962",22.9,7.4,6.4,9.1,Significant Controversy Level,3,39th percentile,Medium
+BMY,Healthcare,Drug Manufacturers - General,"34,100",22.7,1.3,7.1,14.4,Moderate Controversy Level,2,39th percentile,Medium
+IPG,Communication Services,Advertising Agencies,"56,800",10.3,0,5.3,5,Low Controversy Level,1,3rd percentile,Low
+CI,Healthcare,Healthcare Plans,"70,325",11.6,0,5.7,6,Moderate Controversy Level,2,3rd percentile,Low
+RHI,Industrials,Staffing & Employment Services,"15,000",10.9,0.1,3.4,7.4,Low Controversy Level,1,3rd percentile,Low
+PLD,Real Estate,REIT - Industrial,"2,574",10.3,2.7,5,2.5,Low Controversy Level,1,3rd percentile,Low
+HPE,Technology,Communication Equipment,"62,000",10.7,0.9,5.6,4.1,Moderate Controversy Level,2,3rd percentile,Low
+CCI,Real Estate,REIT - Specialty,"4,700",10.1,4.1,4.3,1.7,None Controversy Level,N/A,3rd percentile,Low
+AVB,Real Estate,REIT - Residential,"2,978",9.8,3,4.8,2,Low Controversy Level,1,3rd percentile,Negligible
+APTV,Consumer Cyclical,Auto Parts,"154,000",10.7,1.5,5.3,3.9,Low Controversy Level,1,3rd percentile,Low
+ACN,Technology,Information Technology Services,"742,000",9.8,0.8,4.4,4.6,Moderate Controversy Level,2,3rd percentile,Negligible
+GILD,Healthcare,Drug Manufacturers - General,"18,000",23,1,7.6,14.3,Moderate Controversy Level,2,40th percentile,Medium
+ADI,Technology,Semiconductors,"26,000",22.9,9.3,7,6.7,Low Controversy Level,1,40th percentile,Medium
+SCHW,Financial Services,Capital Markets,"32,600",23.3,2.4,11.9,8.9,Moderate Controversy Level,2,41st percentile,Medium
+NEE,Utilities,Utilities - Regulated Electric,"16,800",23.3,9.4,5.6,8.3,Moderate Controversy Level,2,41st percentile,Medium
+EFX,Industrials,Consulting Services,"15,000",23.2,0.1,6.8,16.3,Significant Controversy Level,3,41st percentile,Medium
+COST,Consumer Defensive,Discount Stores,"316,000",23.3,6.5,5.6,11.2,Significant Controversy Level,3,41st percentile,Medium
+CMCSA,Communication Services,Telecom Services,"186,000",23.1,4,8.2,10.9,Moderate Controversy Level,2,41st percentile,Medium
+BSX,Healthcare,Medical Devices,"48,000",23.1,2.4,8.9,11.9,Moderate Controversy Level,2,41st percentile,Medium
+WAB,Industrials,Railroads,"29,000",23.3,5.4,6,12,Moderate Controversy Level,2,42nd percentile,Medium
+UNP,Industrials,Railroads,"31,052",23.5,7.3,5.6,10.6,Moderate Controversy Level,2,42nd percentile,Medium
+CFG,Financial Services,Banks - Regional,"17,354",23.5,2,11.4,10.1,Moderate Controversy Level,2,42nd percentile,Medium
+CPB,Consumer Defensive,Packaged Foods,"14,500",23.5,10.9,4.5,8.1,Moderate Controversy Level,2,42nd percentile,Medium
+BX,Financial Services,Asset Management,"4,735",23.4,2.5,11.3,9.6,Moderate Controversy Level,2,42nd percentile,Medium
+SRE,Utilities,Utilities - Diversified,"16,835",23.6,10.9,4.9,7.8,Moderate Controversy Level,2,43rd percentile,Medium
+CB,Financial Services,Insurance - Property & Casualty,"40,000",23.6,1.5,10.6,11.5,Moderate Controversy Level,2,43rd percentile,Medium
+BAX,Healthcare,Medical Instruments & Supplies,"60,000",23.6,2.8,7.1,13.6,Significant Controversy Level,3,43rd percentile,Medium
+NTRS,Financial Services,Asset Management,"23,000",23.9,1.9,10.2,11.8,Moderate Controversy Level,2,44th percentile,Medium
+NSC,Industrials,Railroads,"20,700",23.9,8,5.4,10.5,Significant Controversy Level,3,44th percentile,Medium
+ED,Utilities,Utilities - Regulated Electric,"14,592",23.8,6.9,6.1,10.9,Significant Controversy Level,3,44th percentile,Medium
+BDX,Healthcare,Medical Instruments & Supplies,"70,000",23.8,3,7.1,13.6,Significant Controversy Level,3,44th percentile,Medium
+T,Communication Services,Telecom Services,"148,290",23.9,3.3,6.7,13.9,Significant Controversy Level,3,44th percentile,Medium
+AME,Industrials,Specialty Industrial Machinery,"21,500",23.9,8.6,6.7,8.5,Low Controversy Level,1,44th percentile,Medium
+STT,Financial Services,Asset Management,"45,871",24.1,1.6,9.5,12.9,Low Controversy Level,1,45th percentile,Medium
+JNJ,Healthcare,Drug Manufacturers - General,"131,900",24,0.9,8,15,High Controversy Level,4,45th percentile,Medium
+DXCM,Healthcare,Medical Devices,"9,500",24,5.3,8.1,10.6,Low Controversy Level,1,45th percentile,Medium
+AIZ,Financial Services,Insurance - Specialty,"13,600",24.1,1.6,11.7,10.8,Moderate Controversy Level,2,45th percentile,Medium
+LLY,Healthcare,Drug Manufacturers - General,"43,000",24.3,2.5,9.1,12.6,Moderate Controversy Level,2,46th percentile,Medium
+AIG,Financial Services,Insurance - Diversified,"25,000",24.2,1.6,12.9,9.7,Moderate Controversy Level,2,46th percentile,Medium
+GOOGL,Communication Services,Internet Content & Information,"180,895",24.2,1.6,11.5,11.2,High Controversy Level,4,46th percentile,Medium
+TMUS,Communication Services,Telecom Services,"67,000",24.6,4.2,7.1,13.4,Significant Controversy Level,3,47th percentile,Medium
+PFE,Healthcare,Drug Manufacturers - General,"88,000",24.6,2.1,9.6,12.9,Significant Controversy Level,3,47th percentile,Medium
+MS,Financial Services,Capital Markets,"80,000",24.6,1.1,10.5,12.9,Moderate Controversy Level,2,47th percentile,Medium
+IP,Consumer Cyclical,Packaging & Containers,"39,000",24.5,15.1,4.8,4.5,Significant Controversy Level,3,47th percentile,Medium
+CCL,Consumer Cyclical,Travel Services,"106,000",24.5,9.4,5,10.1,Significant Controversy Level,3,47th percentile,Medium
+SBUX,Consumer Cyclical,Restaurants,"381,000",24.7,5.8,4.3,14.6,Significant Controversy Level,3,48th percentile,Medium
+MGM,Consumer Cyclical,Resorts & Casinos,"58,000",24.8,1.3,10.5,13,Moderate Controversy Level,2,48th percentile,Medium
+INCY,Healthcare,Biotechnology,"2,524",24.8,1.1,7.4,16.3,Low Controversy Level,1,48th percentile,Medium
+FAST,Industrials,Industrial Distribution,"20,935",24.7,9.3,7.1,8.3,Moderate Controversy Level,2,48th percentile,Medium
+STZ,Consumer Defensive,Beverages - Wineries & Distilleries,"10,600",24.7,9.4,5.2,10,Moderate Controversy Level,2,48th percentile,Medium
+CHTR,Communication Services,Telecom Services,"101,100",24.7,6.1,7.9,10.7,Moderate Controversy Level,2,48th percentile,Medium
+ABT,Healthcare,Medical Devices,"114,000",24.8,2.3,8.3,14.2,Significant Controversy Level,3,48th percentile,Medium
+NDSN,Industrials,Specialty Industrial Machinery,"7,700",24.9,8.2,5.1,11.6,Low Controversy Level,1,49th percentile,Medium
+HOLX,Healthcare,Medical Instruments & Supplies,"6,990",25,4.6,8.4,12.1,Low Controversy Level,1,49th percentile,Medium
+WDC,Technology,Computer Hardware,"53,000",11.4,1.5,6.1,3.9,Moderate Controversy Level,2,4th percentile,Low
+SBAC,Real Estate,REIT - Specialty,"1,787",11.6,3.1,5.2,3.2,None Controversy Level,N/A,4th percentile,Low
+NWSA,Communication Services,Entertainment,"25,000",11.5,0,6.7,4.7,Moderate Controversy Level,2,4th percentile,Low
+LKQ,Consumer Cyclical,Auto Parts,"49,000",11.1,3.8,3.3,4,Moderate Controversy Level,2,4th percentile,Low
+KIM,Real Estate,REIT - Retail,660,10.9,2.3,6,2.6,None Controversy Level,N/A,4th percentile,Low
+HPQ,Technology,Computer Hardware,"58,000",11.3,0.1,6.1,5.1,Moderate Controversy Level,2,4th percentile,Low
+FRT,Real Estate,REIT - Retail,297,12.4,2.3,5.8,4.3,Low Controversy Level,1,4th percentile,Low
+ELV,Healthcare,Healthcare Plans,"104,900",11.4,0.1,5.3,6,Moderate Controversy Level,2,4th percentile,Low
+AZO,Consumer Cyclical,Specialty Retail,"71,400",11,0.1,3.8,7.1,Moderate Controversy Level,2,4th percentile,Low
+AMT,Real Estate,REIT - Specialty,"5,643",10.9,2.9,5.2,2.8,Low Controversy Level,1,4th percentile,Low
+EMN,Basic Materials,Specialty Chemicals,"14,000",25.3,12.8,6.6,5.8,Moderate Controversy Level,2,50th percentile,Medium
+WMT,Consumer Defensive,Discount Stores,"2,100,000",25.3,5.9,7.1,12.4,Significant Controversy Level,3,50th percentile,Medium
+TSLA,Consumer Cyclical,Auto Manufacturers,"140,473",25.2,3.3,7.8,14.1,Significant Controversy Level,3,50th percentile,Medium
+SWK,Industrials,Tools & Accessories,"50,000",25.3,5,7.8,12.5,Moderate Controversy Level,2,50th percentile,Medium
+PPG,Basic Materials,Specialty Chemicals,"50,000",25.2,11,6.5,7.7,Moderate Controversy Level,2,50th percentile,Medium
+OKE,Energy,Oil & Gas Midstream,"4,775",25.1,10.8,3.3,11,Low Controversy Level,1,50th percentile,Medium
+ITW,Industrials,Specialty Industrial Machinery,"45,000",25.3,7,6.5,11.8,Moderate Controversy Level,2,50th percentile,Medium
+CMA,Financial Services,Banks - Regional,"7,619",25.2,2.5,11.7,11,Moderate Controversy Level,2,50th percentile,Medium
+EL,Consumer Defensive,Household & Personal Products,"44,020",25.5,6.9,7.5,11.1,Moderate Controversy Level,2,51st percentile,Medium
+LEN,Consumer Cyclical,Residential Construction,"12,284",25.4,11.3,5.6,8.6,Moderate Controversy Level,2,51st percentile,Medium
+GS,Financial Services,Capital Markets,"44,400",25.5,0.9,11.8,12.8,Moderate Controversy Level,2,51st percentile,Medium
+FE,Utilities,Utilities - Regulated Electric,"12,042",25.6,10.8,5.8,9,Significant Controversy Level,3,51st percentile,Medium
+AOS,Industrials,Specialty Industrial Machinery,"12,000",25.4,7.2,6.4,11.9,Low Controversy Level,1,51st percentile,Medium
+WYNN,Consumer Cyclical,Resorts & Casinos,"27,800",25.7,3.4,10.6,11.8,Moderate Controversy Level,2,52nd percentile,Medium
+HAL,Energy,Oil & Gas Equipment & Services,"49,000",25.6,9.8,6.9,8.9,Moderate Controversy Level,2,52nd percentile,Medium
+CINF,Financial Services,Insurance - Property & Casualty,"5,426",25.6,1.8,12.9,11,Low Controversy Level,1,52nd percentile,Medium
+ZBH,Healthcare,Medical Devices,"18,000",26,3.6,7.9,14.5,Moderate Controversy Level,2,53rd percentile,Medium
+HSY,Consumer Defensive,Confectioners,"18,650",26,10.5,5.1,10.4,Significant Controversy Level,3,53rd percentile,Medium
+PNC,Financial Services,Banks - Regional,"54,441",26.1,1.9,10.8,13.3,Significant Controversy Level,3,53rd percentile,Medium
+NCLH,Consumer Cyclical,Travel Services,"41,000",25.9,9,6.1,10.9,Moderate Controversy Level,2,53rd percentile,Medium
+NI,Utilities,Utilities - Regulated Gas,"7,364",26,12,4.9,9.2,Significant Controversy Level,3,53rd percentile,Medium
+MCD,Consumer Cyclical,Restaurants,"100,000",26,7.6,5.8,12.6,Significant Controversy Level,3,53rd percentile,Medium
+MKC,Consumer Defensive,Packaged Foods,"13,800",26.1,9.6,5.3,11.1,Moderate Controversy Level,2,53rd percentile,Medium
+DOV,Industrials,Specialty Industrial Machinery,"25,000",25.9,8,5.4,12.5,Low Controversy Level,1,53rd percentile,Medium
+CL,Consumer Defensive,Household & Personal Products,"34,000",26.2,8.3,6.5,11.3,Moderate Controversy Level,2,54th percentile,Medium
+CE,Basic Materials,Chemicals,"12,400",26.1,14.7,5.6,5.9,Moderate Controversy Level,2,54th percentile,Medium
+AEP,Utilities,Utilities - Regulated Electric,"16,800",26.1,12.7,5.4,8.1,Moderate Controversy Level,2,54th percentile,Medium
+AAL,Industrials,Airlines,"132,800",26.4,9.9,4.8,11.6,Moderate Controversy Level,2,54th percentile,Medium
+XEL,Utilities,Utilities - Regulated Electric,"11,311",26.5,12.7,4.5,9.3,Moderate Controversy Level,2,55th percentile,Medium
+RMD,Healthcare,Medical Instruments & Supplies,,26.4,3.5,10.4,12.4,Low Controversy Level,1,55th percentile,Medium
+MTB,Financial Services,Banks - Regional,"21,927",26.5,2.6,13.6,10.3,Low Controversy Level,1,55th percentile,Medium
+D,Utilities,Utilities - Regulated Electric,"17,700",26.4,11.9,5.6,8.8,Moderate Controversy Level,2,55th percentile,Medium
+ALB,Basic Materials,Specialty Chemicals,"9,000",26.6,15.4,6.3,4.8,Moderate Controversy Level,2,55th percentile,Medium
+ETR,Utilities,Utilities - Regulated Electric,"12,000",26.7,14,5.3,7.3,Moderate Controversy Level,2,56th percentile,Medium
+AES,Utilities,Utilities - Diversified,"9,600",26.7,13.3,5.3,8.2,Moderate Controversy Level,2,56th percentile,Medium
+RJF,Financial Services,Capital Markets,"18,000",27,2.3,13.4,11.2,Moderate Controversy Level,2,57th percentile,Medium
+DUK,Utilities,Utilities - Regulated Electric,"27,037",27,11.5,4.8,10.7,Moderate Controversy Level,2,57th percentile,Medium
+PEG,Utilities,Utilities - Regulated Electric,"12,543",27.2,12.5,5.5,9.3,Moderate Controversy Level,2,58th percentile,Medium
+AEE,Utilities,Utilities - Regulated Electric,"9,372",27.2,12.9,5.3,9.1,Moderate Controversy Level,2,58th percentile,Medium
+DRI,Consumer Cyclical,Restaurants,"187,384",27.5,7.9,4.6,15,Moderate Controversy Level,2,59th percentile,Medium
+WEC,Utilities,Utilities - Regulated Electric,"7,000",27.5,13.4,5.1,9,Low Controversy Level,1,59th percentile,Medium
+NOC,Industrials,Aerospace & Defense,"101,000",27.5,7.8,5.4,14.4,Moderate Controversy Level,2,59th percentile,Medium
+EIX,Utilities,Utilities - Regulated Electric,"13,003",27.5,11,5.1,11.4,Significant Controversy Level,3,59th percentile,Medium
+REG,Real Estate,REIT - Retail,492,11.7,3.7,4.8,3.2,None Controversy Level,N/A,5th percentile,Low
+ORLY,Consumer Cyclical,Specialty Retail,"90,601",12.1,0.1,3.8,8.1,Low Controversy Level,1,5th percentile,Low
+LOW,Consumer Cyclical,Home Improvement Retail,"300,000",11.8,3.3,3.2,5.3,Moderate Controversy Level,2,5th percentile,Low
+EQR,Real Estate,REIT - Residential,"2,400",11.9,3,6.1,2.9,Low Controversy Level,1,5th percentile,Low
+DHR,Healthcare,Diagnostics & Research,"61,000",11.9,1.4,5.3,5.2,Moderate Controversy Level,2,5th percentile,Low
+KMX,Consumer Cyclical,Auto & Truck Dealerships,"29,836",12.1,0.1,4,8,Moderate Controversy Level,2,5th percentile,Low
+CDNS,Technology,Software - Application,"11,200",12,2.3,4.8,4.9,None Controversy Level,N/A,5th percentile,Low
+BALL,Consumer Cyclical,Packaging & Containers,"16,000",12.1,7.6,3.7,0.8,Moderate Controversy Level,2,5th percentile,Low
+APD,Basic Materials,Specialty Chemicals,"23,000",12.3,7.4,3.3,1.5,Low Controversy Level,1,5th percentile,Low
+PCAR,Industrials,Farm & Heavy Construction Machinery,"32,400",27.6,8.4,8.3,11,Significant Controversy Level,3,60th percentile,Medium
+EXPE,Consumer Cyclical,Travel Services,"17,100",27.6,4.3,10.1,13.3,Moderate Controversy Level,2,60th percentile,Medium
+SWKS,Technology,Semiconductors,"9,750",28,11.8,7.2,8.9,Low Controversy Level,1,61st percentile,Medium
+SYK,Healthcare,Medical Devices,"52,000",28.3,4,11,13.2,Moderate Controversy Level,2,62nd percentile,Medium
+EMR,Industrials,Specialty Industrial Machinery,"67,000",28.4,8.8,6.6,13.1,Low Controversy Level,1,62nd percentile,Medium
+BBWI,Consumer Cyclical,Specialty Retail,"8,981",28.3,12.2,5.9,10.3,Moderate Controversy Level,2,62nd percentile,Medium
+BAC,Financial Services,Banks - Diversified,"212,000",28.3,1.7,11.5,15.1,Significant Controversy Level,3,62nd percentile,Medium
+QRVO,Technology,Semiconductors,"8,700",28.5,12.3,7.7,8.5,None Controversy Level,N/A,63rd percentile,Medium
+PG,Consumer Defensive,Household & Personal Products,"107,000",28.6,9.6,6.7,12.2,Significant Controversy Level,3,63rd percentile,Medium
+PM,Consumer Defensive,Tobacco,"82,700",28.5,3.4,11.5,13.5,Significant Controversy Level,3,63rd percentile,Medium
+KMB,Consumer Defensive,Household & Personal Products,"41,000",28.5,10.4,7.6,10.4,Moderate Controversy Level,2,63rd percentile,Medium
+K,Consumer Defensive,Packaged Foods,"23,000",28.4,10.6,4.4,13.4,Moderate Controversy Level,2,63rd percentile,Medium
+GM,Consumer Cyclical,Auto Manufacturers,"163,000",28.5,9.8,7.2,11.5,High Controversy Level,4,63rd percentile,Medium
+DD,Basic Materials,Specialty Chemicals,"24,000",28.6,14.7,5.9,8,Significant Controversy Level,3,63rd percentile,Medium
+UAL,Industrials,Airlines,"104,500",28.6,10.8,5,12.8,Moderate Controversy Level,2,64th percentile,Medium
+HON,Industrials,Conglomerates,"95,000",28.6,11,7,10.6,Significant Controversy Level,3,64th percentile,Medium
+HCA,Healthcare,Medical Care Facilities,"220,000",28.8,3.9,7.2,17.7,Significant Controversy Level,3,64th percentile,Medium
+CNP,Utilities,Utilities - Regulated Electric,"8,827",28.7,12.9,5.1,10.7,Moderate Controversy Level,2,64th percentile,Medium
+DPZ,Consumer Cyclical,Restaurants,"6,500",29.2,10.6,6.3,12.2,Moderate Controversy Level,2,66th percentile,Medium
+VMC,Basic Materials,Building Materials,"10,961",29.3,13.4,9.1,6.8,Moderate Controversy Level,2,66th percentile,Medium
+SHW,Basic Materials,Specialty Chemicals,"64,088",29.4,14.3,5.8,9.2,Moderate Controversy Level,2,66th percentile,Medium
+MNST,Consumer Defensive,Beverages - Non-Alcoholic,"5,254",29.2,12.1,5.1,12,Moderate Controversy Level,2,66th percentile,Medium
+JPM,Financial Services,Banks - Diversified,"311,921",29.3,1.1,11.7,16.5,Significant Controversy Level,3,66th percentile,Medium
+IEX,Industrials,Specialty Industrial Machinery,"8,800",29.3,10.3,5.3,13.7,None Controversy Level,N/A,66th percentile,Medium
+C,Financial Services,Banks - Diversified,"237,000",29.2,1.8,13.7,13.8,High Controversy Level,4,66th percentile,Medium
+CF,Basic Materials,Agricultural Inputs,"2,700",29.3,16.2,5.4,7.7,Low Controversy Level,1,66th percentile,Medium
+TFX,Healthcare,Medical Instruments & Supplies,"14,500",29.6,4.8,8.7,16.1,Moderate Controversy Level,2,67th percentile,Medium
+PH,Industrials,Specialty Industrial Machinery,"62,730",29.5,9.5,6.2,13.8,Moderate Controversy Level,2,67th percentile,Medium
+DTE,Utilities,Utilities - Regulated Electric,"9,608",29.8,15,4.7,10,Moderate Controversy Level,2,68th percentile,Medium
+MLM,Basic Materials,Building Materials,"9,400",30.1,16.7,8.7,4.8,Moderate Controversy Level,2,69th percentile,High
+HRL,Consumer Defensive,Packaged Foods,"20,000",30,13.3,6,10.7,Significant Controversy Level,3,69th percentile,Medium
+ABBV,Healthcare,Drug Manufacturers - General,"50,000",29.9,2.4,10.4,17.2,Significant Controversy Level,3,69th percentile,Medium
+VTR,Real Estate,REIT - Healthcare Facilities,486,12.9,3.4,5.6,3.9,None Controversy Level,N/A,6th percentile,Low
+TRMB,Technology,Scientific & Technical Instruments,"12,700",12.4,3.8,5.2,3.4,None Controversy Level,N/A,6th percentile,Low
+TMO,Healthcare,Diagnostics & Research,"122,000",12.8,1.4,6.5,4.9,Significant Controversy Level,3,6th percentile,Low
+HD,Consumer Cyclical,Home Improvement Retail,"465,000",12.6,3.3,3.8,5.6,Moderate Controversy Level,2,6th percentile,Low
+ESS,Real Estate,REIT - Residential,"1,747",12.4,3.5,6.1,2.8,Low Controversy Level,1,6th percentile,Low
+DLR,Real Estate,REIT - Specialty,"3,664",12.6,2.8,7,2.8,None Controversy Level,N/A,6th percentile,Low
+COR,Healthcare,Medical Distribution,"46,000",12.8,1.6,5.7,5.5,Significant Controversy Level,3,6th percentile,Low
+BXP,Real Estate,REIT - Office,836,12.5,2.5,5.4,4.5,Low Controversy Level,1,6th percentile,Low
+BWA,Consumer Cyclical,Auto Parts,"39,900",12.6,2.7,5.7,4.2,Moderate Controversy Level,2,6th percentile,Low
+AMAT,Technology,Semiconductor Equipment & Materials,"34,800",12.7,4.5,5.3,3,Low Controversy Level,1,6th percentile,Low
+USB,Financial Services,Banks - Regional,"70,000",30.3,1.8,13,15.5,Significant Controversy Level,3,70th percentile,High
+PCG,Utilities,Utilities - Regulated Electric,"28,010",30.4,9.6,5.4,15.4,High Controversy Level,4,70th percentile,High
+LMT,Industrials,Aerospace & Defense,"122,000",30.2,8,7.1,15.1,Significant Controversy Level,3,70th percentile,High
+DAL,Industrials,Airlines,"103,000",30.3,9.9,5.8,14.6,Moderate Controversy Level,2,70th percentile,High
+SJM,Consumer Defensive,Packaged Foods,"5,800",30.5,12.9,5.6,12,Moderate Controversy Level,2,71st percentile,High
+LUV,Industrials,Airlines,"74,695",30.7,11,5.9,13.7,Moderate Controversy Level,2,71st percentile,High
+SNA,Industrials,Tools & Accessories,"13,200",30.5,9,7.6,13.9,Moderate Controversy Level,2,71st percentile,High
+MPC,Energy,Oil & Gas Refining & Marketing,"18,200",30.5,17.1,5.3,8.1,Significant Controversy Level,3,71st percentile,High
+AMZN,Consumer Cyclical,Internet Retail,"1,525,000",30.6,6,9.2,15.4,Significant Controversy Level,3,71st percentile,High
+PNW,Utilities,Utilities - Regulated Electric,"6,133",30.8,14.7,5.8,10.2,Low Controversy Level,1,72nd percentile,High
+FMC,Basic Materials,Agricultural Inputs,"6,200",30.7,14.4,7.5,8.9,Low Controversy Level,1,72nd percentile,High
+CAG,Consumer Defensive,Packaged Foods,"18,600",30.8,10.7,4.7,15.4,Moderate Controversy Level,2,72nd percentile,High
+PPL,Utilities,Utilities - Regulated Electric,"6,629",31.3,17.1,5.3,8.9,Moderate Controversy Level,2,74th percentile,High
+FCX,Basic Materials,Copper,"27,200",31.6,15.3,6.4,10,High Controversy Level,4,74th percentile,High
+MO,Consumer Defensive,Tobacco,"6,400",31.3,6.1,7.6,17.6,Significant Controversy Level,3,74th percentile,High
+NRG,Utilities,Utilities - Independent Power Producers,"18,131",32,16.8,5.7,9.5,Moderate Controversy Level,2,75th percentile,High
+MCHP,Technology,Semiconductors,"22,300",31.8,15.3,7.4,9.2,Low Controversy Level,1,75th percentile,High
+ADM,Consumer Defensive,Farm Products,"40,213",31.8,16.6,5,10.1,Significant Controversy Level,3,75th percentile,High
+VLO,Energy,Oil & Gas Refining & Marketing,"9,886",32.6,20.1,5,7.4,Moderate Controversy Level,2,77th percentile,High
+UHS,Healthcare,Medical Care Facilities,"96,700",33,3.7,8.6,20.7,Significant Controversy Level,3,78th percentile,High
+SO,Utilities,Utilities - Regulated Electric,"27,819",33,14.7,7.3,11,Moderate Controversy Level,2,78th percentile,High
+STLD,Basic Materials,Steel,"12,600",33,10.6,8.1,14.4,Low Controversy Level,1,78th percentile,High
+NUE,Basic Materials,Steel,"32,000",32.8,9.3,8.8,14.7,Moderate Controversy Level,2,78th percentile,High
+BG,Consumer Defensive,Farm Products,"23,000",32.9,14.4,5.3,13.3,Significant Controversy Level,3,78th percentile,High
+TRGP,Energy,Oil & Gas Midstream,"3,182",33.2,14.2,4.2,14.8,Moderate Controversy Level,2,79th percentile,High
+HES,Energy,Oil & Gas E&P,"1,756",33.1,18.9,7,7.2,Moderate Controversy Level,2,79th percentile,High
+WELL,Real Estate,REIT - Healthcare Facilities,533,13.2,4.2,5.5,3.5,Low Controversy Level,1,7th percentile,Low
+SPGI,Financial Services,Financial Data & Stock Exchanges,"40,450",13,0,6.8,6.2,Low Controversy Level,1,7th percentile,Low
+PSA,Real Estate,REIT - Industrial,"6,200",13.1,4.7,5.7,2.6,Low Controversy Level,1,7th percentile,Low
+NDAQ,Financial Services,Financial Data & Stock Exchanges,"8,568",13.1,0,7.4,5.6,Low Controversy Level,1,7th percentile,Low
+MSI,Technology,Communication Equipment,"21,000",13.1,2.3,5.8,5.1,Low Controversy Level,1,7th percentile,Low
+MAA,Real Estate,REIT - Residential,"2,427",13.1,3.9,6.3,3,Low Controversy Level,1,7th percentile,Low
+MTD,Healthcare,Diagnostics & Research,"16,000",13.1,1,4.7,7.4,None Controversy Level,N/A,7th percentile,Low
+HST,Real Estate,REIT - Hotel & Motel,163,13.4,3.3,5.5,4.6,Low Controversy Level,1,7th percentile,Low
+EA,Communication Services,Electronic Gaming & Multimedia,"13,700",13.3,0.1,4.7,8.4,Moderate Controversy Level,2,7th percentile,Low
+ADBE,Technology,Software - Infrastructure,"29,945",13.1,1.9,5.2,6,Moderate Controversy Level,2,7th percentile,Low
+MOS,Basic Materials,Agricultural Inputs,"14,049",33.5,13.9,8.6,11.1,Moderate Controversy Level,2,80th percentile,High
+KHC,Consumer Defensive,Packaged Foods,"36,000",33.7,13.5,6.2,14.1,Significant Controversy Level,3,80th percentile,High
+TXT,Industrials,Aerospace & Defense,"35,000",33.6,10.9,6.6,16.1,Moderate Controversy Level,2,80th percentile,High
+DVN,Energy,Oil & Gas E&P,"1,900",33.8,17.7,7.5,8.6,Moderate Controversy Level,2,80th percentile,High
+META,Communication Services,Internet Content & Information,"69,329",34.1,2.7,10.3,21.1,High Controversy Level,4,81st percentile,High
+EOG,Energy,Oil & Gas E&P,"3,050",34.2,20.2,7.3,6.7,Low Controversy Level,1,81st percentile,High
+COP,Energy,Oil & Gas E&P,"10,000",33.9,17.6,8.3,8.1,Moderate Controversy Level,2,81st percentile,High
+FTV,Technology,Scientific & Technical Instruments,"18,000",34.8,16.1,4.7,14,Low Controversy Level,1,83rd percentile,High
+ATO,Utilities,Utilities - Regulated Gas,"5,019",34.6,14.8,6.4,13.4,Moderate Controversy Level,2,83rd percentile,High
+APA,Energy,Oil & Gas E&P,"2,271",38.8,22,8,8.9,Moderate Controversy Level,2,83rd percentile,High
+PSX,Energy,Oil & Gas Refining & Marketing,"14,000",35.4,20.8,5.8,8.8,Significant Controversy Level,3,84th percentile,High
+GD,Industrials,Aerospace & Defense,"111,600",35.2,9.4,6.9,18.9,Significant Controversy Level,3,84th percentile,High
+TSN,Consumer Defensive,Farm Products,"139,000",35.9,14,9.5,12.4,High Controversy Level,4,85th percentile,High
+EQT,Energy,Oil & Gas E&P,881,35.7,17.7,7.9,10.1,Low Controversy Level,1,85th percentile,High
+CTRA,Energy,Oil & Gas E&P,894,36.1,20.3,7.5,8.3,Moderate Controversy Level,2,86th percentile,High
+CAT,Industrials,Farm & Heavy Construction Machinery,"113,200",36.2,10.4,8.1,17.7,High Controversy Level,4,86th percentile,High
+WFC,Financial Services,Banks - Diversified,"224,824",36.2,2,19.4,14.8,Severe Controversy Level,5,87th percentile,High
+CVX,Energy,Oil & Gas Integrated,"45,600",36.6,17,10.4,9.2,Significant Controversy Level,3,87th percentile,High
+PWR,Industrials,Engineering & Construction,"52,500",36.9,12.1,9,15.7,Moderate Controversy Level,2,88th percentile,High
+MRO,Energy,Oil & Gas E&P,"1,681",37.7,21.1,7.6,9.1,Moderate Controversy Level,2,89th percentile,High
+MMM,Industrials,Conglomerates,"85,000",37.3,17.2,6.5,13.6,Severe Controversy Level,5,89th percentile,High
+NVDA,Technology,Semiconductors,"29,600",13.6,2.3,6.3,4.9,Moderate Controversy Level,2,8th percentile,Low
+LRCX,Technology,Semiconductor Equipment & Materials,"17,200",13.6,4.5,5.1,4,Low Controversy Level,1,8th percentile,Low
+GPC,Consumer Cyclical,Auto Parts,"60,000",13.7,4.7,3.8,5.2,Moderate Controversy Level,2,8th percentile,Low
+CSCO,Technology,Communication Equipment,"84,900",13.9,0.4,6.5,6.9,Moderate Controversy Level,2,8th percentile,Low
+ADP,Industrials,Staffing & Employment Services,"63,000",13.8,2.8,5.5,5.5,Low Controversy Level,1,8th percentile,Low
+A,Healthcare,Diagnostics & Research,"18,000",13.6,1.1,6.1,6.4,Moderate Controversy Level,2,8th percentile,Low
+TDG,Industrials,Aerospace & Defense,"15,500",38.7,12,9,17.7,Moderate Controversy Level,2,90th percentile,High
+BA,Industrials,Aerospace & Defense,"171,000",39.6,8.8,8.3,22.5,High Controversy Level,4,91st percentile,High
+GE,Industrials,Aerospace & Defense,"125,000",40.5,14.2,10.9,15.4,Significant Controversy Level,3,92nd percentile,Severe
+OXY,Energy,Oil & Gas E&P,"12,570",41.7,25,7,9.7,Moderate Controversy Level,2,93rd percentile,Severe
+XOM,Energy,Oil & Gas Integrated,"62,000",41.6,23.1,8.5,10,Significant Controversy Level,3,93rd percentile,Severe
+UDR,Real Estate,REIT - Residential,"1,397",13.9,3.7,6.3,3.9,Low Controversy Level,1,9th percentile,Low
+SPG,Real Estate,REIT - Retail,"2,500",14,3.8,6.2,4,Low Controversy Level,1,9th percentile,Low
+PFG,Financial Services,Asset Management,"19,800",14.2,0.8,7.6,5.8,Low Controversy Level,1,9th percentile,Low
+PANW,Technology,Software - Infrastructure,"15,166",13.9,0.7,5.6,7.6,Low Controversy Level,1,9th percentile,Low
+ORCL,Technology,Software - Infrastructure,"164,000",13.9,0.5,5.6,7.8,Moderate Controversy Level,2,9th percentile,Low
+MHK,Consumer Cyclical,"Furnishings, Fixtures & Appliances","43,300",14.1,5.8,4.2,4.2,Moderate Controversy Level,2,9th percentile,Low
+IBM,Technology,Information Technology Services,"282,200",14.1,1.8,6.1,6.2,Moderate Controversy Level,2,9th percentile,Low
+HSIC,Healthcare,Medical Distribution,"25,000",13.9,2,6.3,5.7,Moderate Controversy Level,2,9th percentile,Low
+EQIX,Real Estate,REIT - Specialty,"13,354",13.9,3.4,5.1,5.3,Low Controversy Level,1,9th percentile,Low
+ARE,Real Estate,REIT - Office,568,13.9,3.9,6.3,3.7,None Controversy Level,N/A,9th percentile,Low
