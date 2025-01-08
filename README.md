@@ -1,1 +1,0 @@
-# s-and-p-500-esg-analytics
