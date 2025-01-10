@@ -1,7 +1,7 @@
 from csv import DictReader
 import matplotlib.pyplot as plt
 
-with open('./processed.csv') as f:
+with open('./trimmedData.csv') as f:
     # Skipping the header
     next(f)
 
