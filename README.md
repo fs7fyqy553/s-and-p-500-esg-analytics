@@ -4,7 +4,9 @@ Repo containing files associated with a data analytics project on the S&P 500's 
 
 Files:
 
-- processedData.csv is the post-processing version of the dataset used [1].
+- originalData.csv is the original dataset [1].
+- trimmedData.csv is a trimmed version of originalData.csv.
+- normalisedTrimmedData.csv is the result of normalisation.py, which performs min-max normalisation on Environment, Social and Governance Risk Scores in trimmedData.csv.
 - dataVisualisation.py was written to visualise some aspects of this data.
 - resultsProcessing.py was written to analyse some results of clustering this data in Weka.
 
