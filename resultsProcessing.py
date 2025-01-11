@@ -89,10 +89,6 @@ for clustering_method in confusion_matrices.keys():
 
     confusion_matrix = confusion_matrices[clustering_method]
 
-    # === 
-    # Confusion matrix
-    # ===
-
     sector_names = ['Healthcare', 'Consumer Cyclical', 'Consumer Defensive', 'Technology', 'Industrials', 'Real Estate', 'Communication Services', 'Financial Services', 'Utilities', 'Energy', 'Basic Materials']
 
     confusion_matrix_df = pd.DataFrame(
@@ -100,6 +96,10 @@ for clustering_method in confusion_matrices.keys():
         index=['\n'.join(label.split()) for label in sector_names],
         columns=[i for i in range(11)]
     )
+
+    # === 
+    # Confusion matrix
+    # ===
 
     sns.heatmap(confusion_matrix_df, annot=True, fmt='d', cmap='gray', cbar=False)
     plt.title(f'Confusion Matrix ({clustering_method})')
@@ -119,6 +119,36 @@ for clustering_method in confusion_matrices.keys():
 
     sns.heatmap(highlighted_df, fmt='.0f', cmap='gray_r', cbar=False, linewidths=1, linecolor='black')
     plt.title(f'Primary Cluster For Each Sector ({clustering_method})')
+    plt.xlabel('Cluster')
+    plt.ylabel('Sector')
+    plt.yticks(fontsize=7)
+    plt.show()
+
+    # === 
+    # Confusion matrix with only maximum frequency for each Sector (with percentages shown)
+    # ===
+
+    # Calculating the percentages for each row
+    highlighted_df = confusion_matrix_df.div(confusion_matrix_df.sum(axis=1), axis=0) * 100
+
+    # Retaining only the maximum percentage in each row, setting others to 0
+    highlighted_df = highlighted_df.apply(
+        lambda row: row.where(row == row.max(), other=0), axis=1
+    )
+
+    # Creating annotation data where zeros are replaced with empty strings
+    annotations = highlighted_df.map(lambda x: f"{x:.1f}" if x > 0 else "")
+
+    sns.heatmap(
+        highlighted_df, 
+        annot=annotations,
+        fmt='',  # The annotations are already formatted as strings
+        cmap='gray_r', 
+        cbar=False, 
+        linewidths=1, 
+        linecolor='black'
+    )
+    plt.title(f'Primary Cluster Percentage For Each Sector ({clustering_method})')
     plt.xlabel('Cluster')
     plt.ylabel('Sector')
     plt.yticks(fontsize=7)
