@@ -9,6 +9,7 @@ Files:
 - normalisedTrimmedData.csv is the result of normalisation.py, which performs min-max normalisation on Environment, Social and Governance Risk Scores in trimmedData.csv.
 - dataVisualisation.py was written to visualise some aspects of this data.
 - resultsProcessing.py was written to analyse some results of clustering this data in Weka.
+- riskScoreDistributions.py was written to find the quartiles, means, maxima and minima in the risk score distributions.
 
 # References
 
